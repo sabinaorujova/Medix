@@ -27,6 +27,10 @@ Medix is a comprehensive mobile application that allows users to book appointmen
 * **Real-time Communication**: Zego SDK
 * **Maps**: Google Maps API
 * **Dependency Injection**: GetIt
+* **Video/Voice Call:** Zego Cloud UIKit (Prebuilt components)
+* **Maps & Location:** Google Maps SDK & Geolocator
+* **Routing:** GoRouter (Declarative routing with deep linking support)
+* **Responsiveness:** Flutter ScreenUtil (Adaptive UI across devices)
 
 ## 📋 Requirements
 
